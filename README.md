@@ -24,8 +24,9 @@ Currently developing AI-powered healthcare devices 👨‍⚕️👩‍⚕️�
 <a href="https://docs.scipy.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="40" height="40" alt="Scipy" /></a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="ScikitLearn" /></a>
 <a href="https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373541/cuda.svg" width="40" height="40" alt="CUDA" /></a>
-<br>
+<br></div>
 
+<div align="left"; style="line-height: 0; margin-top: 0px; margin-bottom: 0px;">
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452122/ubuntu.svg" width="40" height="40" alt="Ubuntu" /></a>
 <a href="https://www.debian.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354912/debian.svg" width="40" height="40" alt="Debian" /></a>
 <a href="https://www.nvidia.com/es-es/autonomous-machines/embedded-systems/jetson-nano/product-development/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373541/cuda.svg" width="40" height="40" alt="Jetson Nano" /></a>
@@ -35,8 +36,9 @@ Currently developing AI-powered healthcare devices 👨‍⚕️👩‍⚕️�
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452129/vs-code.svg" width="40" height="40" alt="Visual Studio Code" /></a>
 <a href="https://www.jetbrains.com/es-es/pycharm/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452240/jb-pycharm.svg" width="40" height="40" alt="PyCharm" /></a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373718/jupyter.svg" width="40" height="40" alt="Jupyter" /></a>
-<br>
+<br></div>
 
+<div align="left"; style="line-height: 0; margin-top: 0px; margin-bottom: 0px;">
 <a href="https://es.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373830/matlab.svg" width="40" height="40" alt="MatLab" /></a>
 <a href="https://www.ni.com/es/shop/labview.html" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/LabVIEW.svg" width="40" height="40" alt="LabVIEW" /></a>
 <a href="https://www.ros.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Robot_Operating_System_logo.svg" width="40" height="40" alt="ROS" /></a>
