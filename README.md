@@ -11,7 +11,7 @@ Currently developing AI-powered healthcare devices 👨‍⚕️👩‍⚕️�
 * 🏎️  Firmware development in STM32, PIC32, TI (C2000, Tiva-C) and Arduino
 * 🚀  Computer vision and deep learning based applications developmet for Jetson Nano and Raspberry Pi
 * 🤖  I love tinkering with robotics projects (ROS, Gazebo)
-* 🦀  I'm learning Rust
+* 🦀  Learning Rust in my spare time
 
 ### Skills 
 <div align="left"; style="line-height: 1; margin-top: 0px; margin-bottom: 0px;">
