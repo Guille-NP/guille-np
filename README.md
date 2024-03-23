@@ -14,7 +14,7 @@ Currently developing AI-powered healthcare devices 👨‍⚕️👩‍⚕️�
 * 🦀  I'm learning Rust
 
 ### Skills 
-<div align="left"; style="line-height: 0; margin-top: 0px; margin-bottom: 0px;">
+<div align="left"; style="line-height: 1; margin-top: 0px; margin-bottom: 0px;">
 <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373482/c.svg" width="40" height="40" alt="C" /></a>
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373528/cpp3.svg" width="40" height="40" alt="C++" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374016/python.svg" width="40" height="40" alt="Python" /></a>
@@ -26,7 +26,7 @@ Currently developing AI-powered healthcare devices 👨‍⚕️👩‍⚕️�
 <a href="https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373541/cuda.svg" width="40" height="40" alt="CUDA" /></a>
 <br></div>
 
-<div align="left"; style="line-height: 0; margin-top: 0px; margin-bottom: 0px;">
+<div align="left"; style="line-height: 1; margin-top: 0px; margin-bottom: 0px;">
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452122/ubuntu.svg" width="40" height="40" alt="Ubuntu" /></a>
 <a href="https://www.debian.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354912/debian.svg" width="40" height="40" alt="Debian" /></a>
 <a href="https://www.nvidia.com/es-es/autonomous-machines/embedded-systems/jetson-nano/product-development/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373541/cuda.svg" width="40" height="40" alt="Jetson Nano" /></a>
@@ -38,7 +38,7 @@ Currently developing AI-powered healthcare devices 👨‍⚕️👩‍⚕️�
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373718/jupyter.svg" width="40" height="40" alt="Jupyter" /></a>
 <br></div>
 
-<div align="left"; style="line-height: 0; margin-top: 0px; margin-bottom: 0px;">
+<div align="left"; style="line-height: 1; margin-top: 0px; margin-bottom: 0px;">
 <a href="https://es.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373830/matlab.svg" width="40" height="40" alt="MatLab" /></a>
 <a href="https://www.ni.com/es/shop/labview.html" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/LabVIEW.svg" width="40" height="40" alt="LabVIEW" /></a>
 <a href="https://www.ros.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Robot_Operating_System_logo.svg" width="40" height="40" alt="ROS" /></a>
