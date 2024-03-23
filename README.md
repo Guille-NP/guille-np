@@ -54,5 +54,5 @@ Currently developing AI-powered healthcare devices 👨‍⚕️👩‍⚕️�
 <div align="left"; style="line-height: 0; margin-top: 0px; margin-bottom: 0px;">
 <a href="https://github.com/Guille-NP" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/475654/github-color.svg" width="55" height="55" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/navarrognp/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452051/linkedin.svg" width="55" height="55" alt="LinkedIn" /></a>
-<a href="https://twitter.com/intent/follow?screen_name=Guille_KN" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" width="55" height="55" alt="X-Twitter" /></a>
+<a href="https://twitter.com/Guille_KN" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" width="55" height="55" alt="X-Twitter" /></a>
 </div>
