@@ -1,4 +1,4 @@
-Hi 👋, I'm Guillermo Navarro ![twitter](https://img.shields.io/twitter/follow/Guille_KN?style=social&logo=twitter)
+Hi 👋, I'm Guillermo Navarro
 ============================================================================================================================================
 
 ### Software Engineer | Embedded Systems | Computer Vision & Deep Learning applications
@@ -11,7 +11,7 @@ Currently developing AI-powered healthcare devices 👨‍⚕️👩‍⚕️�
 * 🏎️  Firmware development in STM32, PIC32, TI (C2000, Tiva-C) and Arduino
 * 🚀  Computer vision and deep learning based applications developmet for Jetson Nano and Raspberry Pi
 * 🤖  I love tinkering with robotics projects (ROS, Gazebo)
-* 🦀  Learning Rust in my spare time
+* 🦀  Learning Rust
 
 ### Skills 
 <div align="left"; style="line-height: 1; margin-top: 0px; margin-bottom: 0px;">
@@ -32,6 +32,10 @@ Currently developing AI-powered healthcare devices 👨‍⚕️👩‍⚕️�
 <a href="https://www.nvidia.com/es-es/autonomous-machines/embedded-systems/jetson-nano/product-development/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373541/cuda.svg" width="40" height="40" alt="Jetson Nano" /></a>
 <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303239/raspberry-pi-logo.svg" width="40" height="40" alt="Raspberry Pi" /></a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373441/arduino.svg" width="40" height="40" alt="Arduino" /></a>
+<br></div>  
+
+<div align="left"; style="line-height: 1; margin-top: 0px; margin-bottom: 0px;">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452210/git.svg" width="40" height="40" alt="Git" /></a>
 <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354243/qt.svg" width="40" height="40" alt="Qt" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452129/vs-code.svg" width="40" height="40" alt="Visual Studio Code" /></a>
 <a href="https://www.jetbrains.com/es-es/pycharm/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452240/jb-pycharm.svg" width="40" height="40" alt="PyCharm" /></a>
@@ -50,4 +54,5 @@ Currently developing AI-powered healthcare devices 👨‍⚕️👩‍⚕️�
 <div align="left"; style="line-height: 0; margin-top: 0px; margin-bottom: 0px;">
 <a href="https://github.com/Guille-NP" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/475654/github-color.svg" width="55" height="55" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/navarrognp/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452051/linkedin.svg" width="55" height="55" alt="LinkedIn" /></a>
+<a href="https://twitter.com/intent/follow?screen_name=Guille_KN" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" width="55" height="55" alt="X-Twitter" /></a>
 </div>
