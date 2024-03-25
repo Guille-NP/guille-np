@@ -44,9 +44,9 @@ Currently developing AI-powered healthcare devices 👨‍⚕️👩‍⚕️�
 
 <div align="left"; style="line-height: 1; margin-top: 0px; margin-bottom: 0px;">
 <a href="https://es.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373830/matlab.svg" width="40" height="40" alt="MatLab" /></a>
-<a href="https://www.ni.com/es/shop/labview.html" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/LabVIEW.svg" width="40" height="40" alt="LabVIEW" /></a>
 <a href="https://www.ros.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Robot_Operating_System_logo.svg" width="40" height="40" alt="ROS" /></a>
 <a href="https://gazebosim.org/home" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/5/5e/Gazebo_logo_without_text.svg" width="40" height="40" alt="Gazebo" /></a>
+<a href="https://www.ni.com/es/shop/labview.html" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/LabVIEW.svg" width="40" height="40" alt="LabVIEW" /></a>
 </div>
 
 
