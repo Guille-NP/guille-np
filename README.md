@@ -9,7 +9,7 @@ Currently developing AI-powered healthcare devices 👨‍⚕️👩‍⚕️�
 * 📌  I'm based in Barcelona
 * 👨‍💻 Working in the development of medical technology
 * 🏎️  Firmware development in STM32, PIC32, TI (C2000, Tiva-C) and Arduino
-* 🚀  Computer vision and deep learning based applications developmet for Jetson Nano and Raspberry Pi
+* 🚀  Computer vision and deep learning based applications development for Jetson Nano and Raspberry Pi
 * 🤖  I love tinkering with robotics projects using ROS and Gazebo
 * 🦀  Learning Rust
 
