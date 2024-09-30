@@ -4,11 +4,11 @@ Hi 👋, I'm Guillermo Navarro
 ### Software Engineer | Embedded Systems | Computer Vision & Deep Learning applications
 <hr>
 
-Currently developing AI-powered healthcare devices 👨‍⚕️👩‍⚕️🏥.
+Currently developing embedded software for the assessment of human exposure to electromagnetic fields 
 
 * 📌  I'm based in Barcelona
-* 👨‍💻 Working in the development of medical technology
-* 🏎️  Firmware development in STM32, PIC32, TI (C2000, Tiva-C) and Arduino
+* 👨‍💻 Working in the development of EMF measurement instrumentation
+* 🏎️  Firmware development in STM32, PIC32, TI (C2000, Tiva-C), Silicon Labs and Arduino
 * 🚀  Computer vision and deep learning based applications development for Jetson Nano and Raspberry Pi
 * 🤖  I love tinkering with robotics projects using ROS and Gazebo
 * 🦀  Learning Rust
