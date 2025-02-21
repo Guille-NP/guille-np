@@ -4,7 +4,7 @@ Hi 👋, I'm Guillermo Navarro
 ### Software Engineer | Embedded Systems | Computer Vision & Deep Learning applications
 <hr>
 
-Currently developing embedded software for the assessment of human exposure to electromagnetic fields 
+Currently developing embedded software for high-precision and low-power EMF instrumentation with IoT connectivity. 
 
 * 📌  I'm based in Barcelona
 * 👨‍💻 Working in the development of EMF measurement instrumentation
