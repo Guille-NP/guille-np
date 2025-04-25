@@ -7,11 +7,12 @@ Hi 👋, I'm Guillermo Navarro
 Currently developing embedded software for high-precision and low-power EMF instrumentation with IoT connectivity. 
 
 * 📌  I'm based in Barcelona
-* 👨‍💻 Working in the development of EMF measurement instrumentation
-* 🏎️  Firmware development in STM32, PIC32, TI (C2000, Tiva-C), Silicon Labs and Arduino
+* 👨‍💻  Developing EMF measurement instrumentation
+* ⚙️  Working daily with C, C++ and Python
+* 🏎️  Firmware development in STM32, PIC32, TI (C2000, Tiva-C) and Silicon Labs
 * 🚀  Computer vision and deep learning based applications development for Jetson Nano and Raspberry Pi
-* 🤖  I love tinkering with robotics projects using ROS and Gazebo
-* 🦀  Learning Rust
+* 🤖  I love tinkering with robotics projects using ROS2 and Gazebo
+* 🦀  Diving hands-on into Rust
 
 ### Skills 
 <div align="left"; style="line-height: 1; margin-top: 0px; margin-bottom: 0px;">
